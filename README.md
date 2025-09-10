@@ -48,14 +48,5 @@
 
 ### Project Structure
 
-weather-cli/
-│── .github/
-│   └── workflows/
-│       └── python-ci.yml    # CI/CD pipeline
-│── tests/
-│   └── test_fetch.py        # Unit tests
-│── weather/
-│   └── fetch.py             # Weather fetching logic
-│── requirements.txt         # Dependencies
-│── main.py                  # Entry point
-│── README.md                # Documentation
+<img width="1007" height="645" alt="image" src="https://github.com/user-attachments/assets/ac4f903e-a5da-40bf-a739-12cc8ec69b15" />
+
